@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@500&display=swap');
+
+.App {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+}
